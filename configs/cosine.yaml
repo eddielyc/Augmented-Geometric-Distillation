@@ -1,0 +1,5 @@
+distillation:
+  type: "cosine"
+  factor: 5.
+  config:
+

@@ -1,0 +1,5 @@
+distillation:
+  type: "triangle"
+  factor: 3.
+  config:
+

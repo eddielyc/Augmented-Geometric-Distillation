@@ -1,0 +1,6 @@
+distillation:
+  type: "relation"
+  factor: 0.3
+  config:
+    normalize: false
+    p: 2

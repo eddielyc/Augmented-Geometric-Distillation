@@ -1,0 +1,10 @@
+logs
+generations*
+__pycache__
+.ipynb_checkpoints
+generations.tar.gz
+data
+generations_r50.tar.gz
+generated_by_gan
+adversarial_dreaming*
+*.gif

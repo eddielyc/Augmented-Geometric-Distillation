@@ -1,0 +1,5 @@
+distillation:
+  type: "hinton"
+  factor: 2.
+  config:
+    T: 2

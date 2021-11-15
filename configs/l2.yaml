@@ -1,0 +1,4 @@
+distillation:
+  type: "l2"
+  factor: 0.005
+  config:

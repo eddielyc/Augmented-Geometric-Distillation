@@ -1,0 +1,5 @@
+distillation:
+  type: "sim-res"
+  factor: 3.
+  config:
+  cross_factor: 1.0

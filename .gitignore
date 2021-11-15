@@ -1,0 +1,8 @@
+/实验日志.assets/
+/data/
+/.ipynb_checkpoints/
+/logs/
+**.jpg
+**.png
+**.tar.*
+**.zip

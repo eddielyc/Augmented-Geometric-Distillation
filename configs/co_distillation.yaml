@@ -1,0 +1,7 @@
+distillation:
+  type: "sim-res"
+  factor: 4.
+  config:
+
+co_distillation:
+  factor: 3.

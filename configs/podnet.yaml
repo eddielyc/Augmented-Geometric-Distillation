@@ -1,0 +1,8 @@
+distillation:
+  type: "podnet"
+  factor: 1.
+  config:
+    collapse: "spatial"
+    criterion: "cosine"
+    embedding_factor: 5
+    attention_factor: 8

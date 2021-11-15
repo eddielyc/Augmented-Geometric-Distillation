@@ -1,0 +1,7 @@
+distillation:
+  type: "GeoDLxLUCIR"
+  factor: 1.
+  config:
+    dim: 2047
+    GeoDL_factor: 4
+    cosine_factor: 5
