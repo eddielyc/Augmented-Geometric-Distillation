@@ -3,7 +3,7 @@ Official code for Augmented Geometric Distillation
 
 Datasets Structure
 ```
-data
+./data
 - market
   - bounding_box_test
   - bounding_box_train
